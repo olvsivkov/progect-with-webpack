@@ -14,6 +14,8 @@ The project uses:
 -png - image.
 All these technologies are assembled using webpack5.
 
+Addition: Migrated the project to typescript (26.06.2022)
+
 __________________________________________________________________________________________________________________
 
 RU
@@ -27,3 +29,5 @@ RU
 -favicon, 
 -png - image. 
 Все эти технологии собраны с помощью webpack5.
+
+Дополнение: Произвел миграцию проекта на typescript (26.06.2022)
